@@ -5,7 +5,7 @@
 
 ### 🌟 À propos de moi
 💻 Développeur **full-stack**
-⚡ Fan de **projets ambitieux** et de solutions élégantes   
+⚡ Fan de **projets ambitieux** 
 📍 Basé en **France, IDF**  
 📫 Contact : **[anguillevalentin@gmail.com](mailto:anguillevalentin@gmail.com)**
 
@@ -22,7 +22,6 @@
 ### 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Val-Developpement&show_icons=true&theme=radical" alt="stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Val-Developpement&theme=radical" alt="streak"/>
 </p>
 
