@@ -4,9 +4,9 @@
 ---
 
 ### 🌟 À propos de moi
-💻 Développeur **full-stack**
-⚡ Fan de **projets ambitieux** 
-📍 Basé en **France, IDF**  
+💻 Développeur **full-stack**<br />
+⚡ Fan de **projets ambitieux**<br /> 
+📍 Basé en **France, IDF**<br />  
 📫 Contact : **[anguillevalentin@gmail.com](mailto:anguillevalentin@gmail.com)**
 
 ---
